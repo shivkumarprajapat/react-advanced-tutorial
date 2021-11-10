@@ -1,4 +1,6 @@
-# ⚛️ React JS Advanced🔥 💻 📚 📂 ⚛️
+# ⚛️ React JS Advanced🔥 💻 📚 📂 ⚛
+
+![alt text](https://www.snowpack.dev/img/guides/react/react.gif)
 ## Corresponding Projects
 
 #### useState
