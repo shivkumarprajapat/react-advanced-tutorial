@@ -1,0 +1,13 @@
+{
+    "homePage": {
+        "hero": {
+            "mainTitle": "Hello React Js"
+        }
+    },
+    "aboutPage": {
+        "title": "About Page"
+    },
+    "servicePage": {
+        "title": "Service Page"
+    }
+}

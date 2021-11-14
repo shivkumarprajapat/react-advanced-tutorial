@@ -1,0 +1,13 @@
+{
+    "homePage": {
+        "hero": {
+            "mainTitle": "हैलो रिएक्ट जेएस"
+        }
+    },
+    "aboutPage": {
+        "title": "पेज के बारे में"
+    },
+    "servicePage": {
+        "title": "सेवा पृष्ठ"
+    }
+}
